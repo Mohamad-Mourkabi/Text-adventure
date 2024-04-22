@@ -256,7 +256,7 @@ class Game
 
 			else
 			{
-				Console.WriteLine("you cant use blue here");
+				Console.WriteLine("you cant use bluekey here");
 				return;
 			}
 		}
